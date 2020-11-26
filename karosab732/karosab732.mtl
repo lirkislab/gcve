@@ -12,5 +12,5 @@ newmtl Material__25
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka ka1.jpg
-	map_Kd ka1.jpg
+	map_Ka ka1dx.jpg
+	map_Kd ka1dx.jpg
